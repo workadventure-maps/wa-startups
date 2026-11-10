@@ -1,4 +1,4 @@
-# 🗺️ WorkAdventure Map Starter Kit
+# 🗺️ Startup maps for WorkAdventure
 
 <a href="https://discord.gg/G6Xh9ZM9aR" target="blank"><img src="https://img.shields.io/discord/821338762134290432.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://x.com/workadventure_" target="blank"><img src="https://img.shields.io/twitter/follow/workadventure_.svg?style=social" /></a>
